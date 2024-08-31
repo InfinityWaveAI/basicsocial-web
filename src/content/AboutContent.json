@@ -1,0 +1,16 @@
+{
+  "title": "Watch, Shop & Repeat",
+  "text": "Search your favourite products, learn more by watching videos and then shop right away. Interested for more, enrol for creator and start earning right away with Basic.Social App - Best Social Media App for Shopping.",
+  "section": [
+    {
+      "title": "For Users",
+      "content": "Watch vidoes about your desired products, follow your favourite influencers. Buy what they use and recommend.",
+      "icon": "users.svg"
+    },
+    {
+      "title": "For creators",
+      "content": "Create, endorse, recommend and earn immeidately. Don't wait for building a large community to get your first earning.",
+      "icon": "rupee.svg"
+    }
+  ]
+}
